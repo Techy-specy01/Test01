@@ -1,0 +1,24 @@
+{
+  "name": "test01",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Techy-specy01/Test01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Techy-specy01/Test01/issues"
+  },
+  "homepage": "https://github.com/Techy-specy01/Test01#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
